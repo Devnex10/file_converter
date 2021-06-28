@@ -1,0 +1,15 @@
+# json. 
+Linked files for file converter processing pages
+or folders will be processed through the application.
+Overlooked information will be later or then 
+changed for user satisfition allowing many different
+uploads of different file folders.
+
+json. : { ""
+//home/file/location//
+"sys": { ""
+"file": { "file_conversion";
+//user/token//     
+     }
+"token": } "link";
+     }
